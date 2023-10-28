@@ -49,12 +49,8 @@ def scraper(content, file_path):
                 price_text = price.text.replace('€', '').replace(' ', '').replace('.', '')
                 price = float(price_text)
                 prices.append(price)
-            else:
-                prices.append('No display data')
             if address and address.text:
                 addresses.append(' '.join(address.text.split()))
-            else:
-                addresses.append('No display data')
     print(addresses, prices, rooms, bedrooms, sizes)
 
     new_data_frame = pd.DataFrame({
@@ -70,8 +66,6 @@ def scraper(content, file_path):
     else:
         try:
             old_data_frame = get_data_frame()
-            print('the old data frame: \n')
-            print(old_data_frame)
             result_data_frame = pd.concat([old_data_frame, new_data_frame], ignore_index=True)
             result_data_frame = result_data_frame.drop_duplicates()
             save_csv(result_data_frame, file_path)
