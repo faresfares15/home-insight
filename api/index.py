@@ -27,6 +27,3 @@ async def main():
         await browser.close()
 
 asyncio.run(main())
-df = get_data_frame()
-print('the new data frame: \n')
-print(df)
