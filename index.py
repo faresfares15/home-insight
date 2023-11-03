@@ -1,8 +1,6 @@
 import asyncio
 from playwright.async_api import async_playwright
 from flask import Flask
-
-from api.Utilities import get_data_frame
 from scraper import scraper
 import os
 from dotenv import load_dotenv
@@ -23,7 +21,7 @@ async def main():
         await page.goto('https://www.pap.fr/annonce/locations-appartement', timeout=120000)
         print('done, evaluating')
         content = await page.inner_html('html')
-        scraper(content, "../properties.csv")
+        scraper(content, "properties.csv")
         await browser.close()
 
 asyncio.run(main())
