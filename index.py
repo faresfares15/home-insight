@@ -14,7 +14,8 @@ app = Flask(__name__)
 async def main():
     async with async_playwright() as pw:
         print('connecting')
-        browser = await pw.chromium.connect_over_cdp(os.getenv('BROWSER_URL'))
+        browser = await pw.chromium.connect_over_cdp(os.environ['BROWSER_URL'])
+        # TODO: change the ps.getenv to os.environ[]
         print('connected')
         page = await browser.new_page()
         print('goto')
