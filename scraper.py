@@ -74,4 +74,4 @@ def scraper(content, file_path):
             print("Got a problem with the data frame, " + e.__str__() + " creating a new one")
             result_data_frame = new_data_frame
 
-        return result_data_frame
+        return new_data_frame
