@@ -131,4 +131,3 @@ websocket-client==1.6.4
 Werkzeug==3.0.0
 widgetsnbextension==4.0.9
 wsproto==1.2.0
-requests==2.28.1
