@@ -11,7 +11,6 @@ def get_data_frame(delete_id: bool = True, delete_index: bool = True) -> pd.Data
     try:
         # create a new client and connect to the server
         client = MongoClient(os.environ['MONGODB_URI'], server_api=ServerApi('1'))
-        # TODO: change the os.getenv to os.environ[]
         db = client['home-insight']
         print('connected to the db')
         collection = db['properties'].find({'Price': {'$gt': 0}})
@@ -33,7 +32,6 @@ def save_csv(data_frame: pd.DataFrame, filename: str):
 def save_to_db(data_frame: pd.DataFrame):
     # Save to the DB when you implement it
     client = MongoClient(os.environ['MONGODB_URI'], server_api=ServerApi('1'))
-    # TODO: change the os.getenv to os.environ[]
 
     db = client['home-insight']
     collection = db['properties']

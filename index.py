@@ -30,7 +30,6 @@ async def main():
     async with async_playwright() as pw:
         print('connecting')
         browser = await pw.chromium.connect_over_cdp(os.environ['BROWSER_URL'])
-        # TODO: change the ps.getenv to os.environ[]
         print('connected')
         page = await browser.new_page()
         print('goto')
@@ -39,5 +38,5 @@ async def main():
         content = await page.inner_html('html')
         result = scraper(content, "properties.csv")
         await browser.close()
-    logger.info(result)
+    logger.info(f'\n{result}')
 asyncio.run(main())
