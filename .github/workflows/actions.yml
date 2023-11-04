@@ -24,7 +24,9 @@ jobs:
 
       - name: execute py script # run index.py
         env:
-          SOME_SECRET: ${{ secrets.SOME_SECRET }}
+          AUTH: ${{ secrets.AUTH }}
+          BROWSER_URL: ${{ secrets.BROWSER_URL }}
+          MONGODB_URI: ${{ secrets.MONGODB_URI }}
         run: python index.py
 
       - name: commit files
