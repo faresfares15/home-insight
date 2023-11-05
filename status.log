@@ -81,3 +81,7 @@ Index: []
 8               Paris 20E (75020)  1402.0     2        1   36
 9               La Ciotat (13600)  2400.0     5        3  120
 10        Rueil-Malmaison (92500)   580.0     1        1   17
+2023-11-05 23:30:11,093 - __main__ - INFO - 
+Empty DataFrame
+Columns: [Address, Price, Rooms, Bedrooms, Size]
+Index: []
