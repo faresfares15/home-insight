@@ -38,3 +38,7 @@ Index: []
 9   Les Issambres - Roquebrune-Sur-Argens  1500.0     3        2   60
 10                     Saint-Ouen (93400)  1610.0     3        2   61
 11                   Marly-Le-Roi (78160)  1300.0     4        3   69
+2023-11-05 21:29:00,540 - __main__ - INFO - 
+Empty DataFrame
+Columns: [Address, Price, Rooms, Bedrooms, Size]
+Index: []
