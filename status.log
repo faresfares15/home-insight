@@ -85,3 +85,17 @@ Index: []
 Empty DataFrame
 Columns: [Address, Price, Rooms, Bedrooms, Size]
 Index: []
+2023-11-05 23:49:04,702 - __main__ - INFO - 
+                          Address   Price Rooms Bedrooms Size
+0               Villejuif (94800)  1700.0     3        2   65
+1                Paris 8E (75008)  1990.0     2        1   38
+2           Saint-Quentin (02100)   550.0     2        1   40
+3               Paris 15E (75015)  1955.0     3        2   61
+4              Sallanches (74700)   900.0     3        2   68
+5               Paris 11E (75011)  1560.0     2        1   40
+6               Sarcelles (95200)   550.0     1        1   15
+7                  Drancy (93700)   920.0     2        1   33
+8   Saint-Germain-En-Laye (78100)  1390.0     3        2   60
+9                Suresnes (92150)  2200.0     4        3   93
+10               Saint-Denis (93)  1295.0     3        2   64
+11        Rueil-Malmaison (92500)   999.0     2        1   37
