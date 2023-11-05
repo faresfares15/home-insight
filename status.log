@@ -24,3 +24,17 @@ Index: []
 6                    Pantin (93500)  1000.0     2        1   45
 7                    Chatou (78400)  1600.0     3        2   60
 8  Saintes-Maries-De-La-Mer (13460)   700.0     2        1   40
+2023-11-05 21:15:13,590 - __main__ - INFO - 
+                                  Address   Price Rooms Bedrooms Size
+0                         Créteil (94000)  1300.0     3        2   65
+1               Neuilly-Sur-Seine (92200)  1980.0     2        1   58
+2                Maisons-Laffitte (78600)  1235.0     2        1   46
+3                         Orléans (45100)   850.0     3        2   73
+4                 L'haÿ-Les-Roses (94240)  1680.0     3        2   72
+5             Champigny-Sur-Marne (94500)  1290.0     3        2   50
+6                         Puteaux (92800)  2750.0     4        2  144
+7                        Paris 8E (75008)  1770.0     2        1   44
+8                          Nantes (44000)   553.0     4        3   65
+9   Les Issambres - Roquebrune-Sur-Argens  1500.0     3        2   60
+10                     Saint-Ouen (93400)  1610.0     3        2   61
+11                   Marly-Le-Roi (78160)  1300.0     4        3   69
