@@ -53,3 +53,14 @@ Index: []
 6       Saint-Raphaël (83530)   900.0     2        1   42
 7             Vitry-Sur-Seine   720.0     2        1   35
 8              Marseille 8Eme   916.0     3        2   40
+2023-11-05 22:29:41,354 - __main__ - INFO - 
+                      Address   Price Rooms Bedrooms Size
+0            Bordeaux (33000)  1130.0     3        2   60
+1           Paris 20E (75020)  1402.0     2        1   36
+2  Brive-La-Gaillarde (19100)   950.0     3        2   80
+3        Louveciennes (78430)  1495.0     3        2   64
+4                 Afa (20167)   780.0     2        1   50
+5            Bordeaux (33000)  1000.0     2        1   42
+6       Saint-Raphaël (83530)   900.0     2        1   42
+7  Roquefort-Les-Pins (06330)  1050.0     2        1   64
+8             Mennecy (91540)   940.0     2        1   40
