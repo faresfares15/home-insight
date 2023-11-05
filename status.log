@@ -68,3 +68,16 @@ Index: []
 Empty DataFrame
 Columns: [Address, Price, Rooms, Bedrooms, Size]
 Index: []
+2023-11-05 23:17:40,390 - __main__ - INFO - 
+                          Address   Price Rooms Bedrooms Size
+0              Sallanches (74700)   900.0     3        2   68
+1               Paris 11E (75011)  1560.0     2        1   40
+2               Sarcelles (95200)   550.0     1        1   15
+3                  Drancy (93700)   920.0     2        1   33
+4   Saint-Germain-En-Laye (78100)  1390.0     3        2   60
+5         Ablon-Sur-Seine (94480)   510.0     1        1   10
+6              Asnieres-Sur-Seine  1085.0     2        1   39
+7                Bordeaux (33000)  1130.0     3        2   60
+8               Paris 20E (75020)  1402.0     2        1   36
+9               La Ciotat (13600)  2400.0     5        3  120
+10        Rueil-Malmaison (92500)   580.0     1        1   17
