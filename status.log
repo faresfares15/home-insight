@@ -64,3 +64,7 @@ Index: []
 6       Saint-Raphaël (83530)   900.0     2        1   42
 7  Roquefort-Les-Pins (06330)  1050.0     2        1   64
 8             Mennecy (91540)   940.0     2        1   40
+2023-11-05 22:49:09,194 - __main__ - INFO - 
+Empty DataFrame
+Columns: [Address, Price, Rooms, Bedrooms, Size]
+Index: []
