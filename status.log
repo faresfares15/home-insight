@@ -138,3 +138,14 @@ Index: []
 Empty DataFrame
 Columns: [Address, Price, Rooms, Bedrooms, Size]
 Index: []
+2023-11-06 03:19:10,058 - __main__ - INFO - 
+                    Address   Price Rooms Bedrooms Size
+0    Plan-De-Cuques (13380)   900.0     2        1   48
+1                  Paris 8E  6200.0     6        4  180
+2            Sceaux (92330)   600.0     1        1   12
+3         Villejuif (94800)  1700.0     3        2   65
+4          Paris 8E (75008)  1990.0     2        1   38
+5     Saint-Quentin (02100)   550.0     2        1   40
+6  Champs-Sur-Marne (77420)   440.0     1        1   10
+7            Nantes (44000)  1490.0     3        2   98
+8      Louveciennes (78430)  2000.0     5        3  139
