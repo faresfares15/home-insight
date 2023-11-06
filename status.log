@@ -159,3 +159,13 @@ Index: []
 5            Paris 8E (75008)  1990.0     2        1   38
 6          Le Vésinet (78110)  1493.0     3        2   72
 7  Asnières-Sur-Seine (92600)  1410.0     3        2   70
+2023-11-06 04:23:01,345 - __main__ - INFO - 
+                  Address   Price Rooms Bedrooms Size
+0            Nice (06000)  2400.0     4        2   96
+1  Plan-De-Cuques (13380)   900.0     2        1   48
+2                Paris 8E  6200.0     6        4  180
+3          Sceaux (92330)   600.0     1        1   12
+4       Villejuif (94800)  1700.0     3        2   65
+5        Paris 8E (75008)  1990.0     2        1   38
+6     Saint-Mande (94160)  1490.0     2        1   43
+7        Colombes (92700)  1700.0     3        2   65
