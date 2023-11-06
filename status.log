@@ -200,3 +200,7 @@ Index: []
 Empty DataFrame
 Columns: [Address, Price, Rooms, Bedrooms, Size]
 Index: []
+2023-11-06 09:33:36,879 - __main__ - INFO - 
+Empty DataFrame
+Columns: [Address, Price, Rooms, Bedrooms, Size]
+Index: []
