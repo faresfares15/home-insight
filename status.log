@@ -111,3 +111,16 @@ Index: []
 7           Sarcelles (95200)   550.0     1        1   15
 8             Vitry-Sur-Seine   720.0     2        1   35
 9  Behren-Lès-Forbach (57460)   950.0     5        3  135
+2023-11-06 02:06:31,575 - __main__ - INFO - 
+                  Address   Price Rooms Bedrooms Size
+0                Paris 8E  6200.0     6        4  180
+1          Sceaux (92330)   600.0     1        1   12
+2       Villejuif (94800)  1700.0     3        2   65
+3        Paris 8E (75008)  1990.0     2        1   38
+4   Saint-Quentin (02100)   550.0     2        1   40
+5       Paris 15E (75015)  1955.0     3        2   61
+6      Sallanches (74700)   900.0     3        2   68
+7       Paris 11E (75011)  1560.0     2        1   40
+8         Créteil (94000)  1300.0     3        2   65
+9       Montesson (78360)  1265.0     4        2   68
+10       Paris 6E (75006)  1780.0     2        1   44
