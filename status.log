@@ -181,3 +181,14 @@ Index: []
 Empty DataFrame
 Columns: [Address, Price, Rooms, Bedrooms, Size]
 Index: []
+2023-11-06 07:49:07,559 - __main__ - INFO - 
+                   Address   Price Rooms Bedrooms Size
+0      Saint-Mande (94160)  2250.0     3        2   62
+1            Reims (51100)  1095.0     4        2   83
+2  Théoule-Sur-Mer (06590)  2500.0     3        2   80
+3           Thiais (94320)   430.0     1        1   10
+4          Garches (92380)  1230.0     2        1   38
+5            Cergy (95000)   580.0     1        1   11
+6                Sarcelles   560.0     1        1   14
+7        Montrouge (92120)  1980.0     3        2   65
+8     Louveciennes (78430)  2000.0     5        3  139
