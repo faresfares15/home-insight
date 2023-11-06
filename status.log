@@ -124,3 +124,13 @@ Index: []
 8         Créteil (94000)  1300.0     3        2   65
 9       Montesson (78360)  1265.0     4        2   68
 10       Paris 6E (75006)  1780.0     2        1   44
+2023-11-06 02:37:14,487 - __main__ - INFO - 
+                         Address   Price Rooms Bedrooms Size
+0         Plan-De-Cuques (13380)   900.0     2        1   48
+1                       Paris 8E  6200.0     6        4  180
+2                 Sceaux (92330)   600.0     1        1   12
+3              Villejuif (94800)  1700.0     3        2   65
+4               Paris 8E (75008)  1990.0     2        1   38
+5          Saint-Quentin (02100)   550.0     2        1   40
+6              Paris 15E (75015)  1955.0     3        2   61
+7  Châteauneuf-Sur-Loire (45110)   790.0     3        2   64
