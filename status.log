@@ -134,3 +134,7 @@ Index: []
 5          Saint-Quentin (02100)   550.0     2        1   40
 6              Paris 15E (75015)  1955.0     3        2   61
 7  Châteauneuf-Sur-Loire (45110)   790.0     3        2   64
+2023-11-06 02:49:55,730 - __main__ - INFO - 
+Empty DataFrame
+Columns: [Address, Price, Rooms, Bedrooms, Size]
+Index: []
