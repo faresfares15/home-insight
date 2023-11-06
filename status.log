@@ -169,3 +169,7 @@ Index: []
 5        Paris 8E (75008)  1990.0     2        1   38
 6     Saint-Mande (94160)  1490.0     2        1   43
 7        Colombes (92700)  1700.0     3        2   65
+2023-11-06 04:49:07,578 - __main__ - INFO - 
+Empty DataFrame
+Columns: [Address, Price, Rooms, Bedrooms, Size]
+Index: []
