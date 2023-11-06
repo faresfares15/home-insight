@@ -220,3 +220,15 @@ Index: []
 Empty DataFrame
 Columns: [Address, Price, Rooms, Bedrooms, Size]
 Index: []
+2023-11-06 11:49:10,070 - __main__ - INFO - 
+                 Address   Price Rooms Bedrooms Size
+0  La Ferte-Sous-Jouarre   800.0     3        2   70
+1             Courbevoie  1500.0     2        1   33
+2         Annecy (74000)  1370.0     4        2   82
+3              Paris 18E  1050.0     2        1   38
+4      Villejuif (94800)   780.0     1        1   11
+5    Ris-Orangis (91130)  1500.0     4        3   73
+6          Gagny (93220)  1300.0     3        2   58
+7              Paris 15E  1500.0     2        1   39
+8        Puteaux (92800)  2750.0     4        2  144
+9       Biarritz (64200)  1079.0     2        1   49
