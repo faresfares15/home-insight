@@ -192,3 +192,7 @@ Index: []
 6                Sarcelles   560.0     1        1   14
 7        Montrouge (92120)  1980.0     3        2   65
 8     Louveciennes (78430)  2000.0     5        3  139
+2023-11-06 08:49:13,163 - __main__ - INFO - 
+Empty DataFrame
+Columns: [Address, Price, Rooms, Bedrooms, Size]
+Index: []
